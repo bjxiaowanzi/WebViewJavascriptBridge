@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'WebViewJavascriptBridge'
-  s.version      = '6.0.4'
+  s.version      = '6.0.6'
   s.summary      = 'An iOS & OSX bridge for sending messages between Obj-C/Swift and JavaScript in WKWebViews, UIWebViews & WebViews.'
   s.homepage     = 'https://github.com/bjxiaowanzi/WebViewJavascriptBridge.git'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
