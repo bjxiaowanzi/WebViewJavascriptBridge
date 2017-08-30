@@ -7,9 +7,9 @@
 
 #import <Foundation/Foundation.h>
 
-#define kOldProtocolScheme @"wvjbscheme"
-#define kNewProtocolScheme @"ne"
-#define kQueueHasMessage   @"__ne_queue_message__"
+#define kOldProtocolScheme @"ne"
+#define kNewProtocolScheme @"https"
+#define kQueueHasMessage   @"__wvjb_queue_message__"
 #define kBridgeLoaded      @"__bridge_loaded__"
 
 typedef void (^WVJBResponseCallback)(id responseData);
